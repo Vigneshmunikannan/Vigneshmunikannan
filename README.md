@@ -2,10 +2,10 @@
 
 ### Full-Stack Software Developer | System Design | Database Engineering
 
+## 👀 Profile Views
+
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Vigneshmunikannan">
-    <img src="https://komarev.com/ghpvc/?username=Vigneshmunikannan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vigneshmunikannan&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat-square" alt="Profile views" />
 </p>
 
 I’m a full-stack software developer from India who enjoys building reliable, scalable, and user-friendly applications. My work spans frontend development, backend APIs, database design, authentication, asynchronous processing, automated testing, and deployment workflows.
